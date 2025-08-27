@@ -30,4 +30,4 @@ https://github.com/Paula-ads/Jogo-adivinha-o.py
 - [LinkedIn](https://www.linkedin.com/in/anapaulacarvalhodossantosdias)  
 - Email: paulacarvalhodias@outlook.com
 
-Obrigado por visitar meu perfil! 😊
+Obrigada por visitar meu perfil! 😊
