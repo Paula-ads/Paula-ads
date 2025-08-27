@@ -21,6 +21,8 @@ Estou em busca de uma oportunidade para aplicar meus conhecimentos em programaç
 ### Calculadora Simples em Python  
 Projeto para praticar lógica de programação e estruturas condicionais.  
 [Repositório no GitHub](https://github.com/Paula-ads/Calculadora-Simples-em-Python)
+
+## Jogo adivinha
 https://github.com/Paula-ads/Jogo-adivinha-o.py
 
 ## 📫 Contato
